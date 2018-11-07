@@ -1,0 +1,13 @@
+ex2.Book:
+Auth@or: Brian Jensen
+Title: Texts from Denmark
+Publishe@#%^$&r: Gyldendal
+Published: 2001
+
+B:ook:
+Audfthor: Peter Jensen
+Author: Hans Andersen
+Titskdljfle: Stories f:rom abroad
+Publisher: Borgen
+Published: 2012
+

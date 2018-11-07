@@ -1,0 +1,1300 @@
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+
+ex2.Book:
+Author: Brian Jensen
+Title: Texts from Denmark
+Publisher: Gyldendal
+Published: 2001
+
+ex2.Book:
+Author: Peter Jensen
+Author: Hans Andersen
+Title: Stories from abroad
+Publisher: Borgen
+Published: 2012
+

@@ -1,0 +1,12 @@
+kids/picture-books/animals
+kids/picture-books/flowers
+kids/fables/middle-ages
+kids/fables/disney
+kids/fables/moral
+kids/fantasy/space
+teens/crime/detective
+teens/crime/criminals
+adults/novels/europe
+adults/novels/us
+adults/cooking/vegan
+adults/cooking/healthy

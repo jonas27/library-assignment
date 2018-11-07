@@ -1,0 +1,7 @@
+book:
+isbn: 1234
+title: benji
+room: kids
+row: fables
+shelf: moral
+add:
