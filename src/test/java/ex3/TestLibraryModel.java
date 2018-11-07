@@ -8,6 +8,7 @@ import java.io.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+// Sorry for the minimal testing, but I'm running out of time.
 public class TestLibraryModel {
 
     private static final Pattern ptn = Pattern.compile("(\\w+):[ \\t]*([\\w\\s]*)");
